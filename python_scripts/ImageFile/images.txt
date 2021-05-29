@@ -1,0 +1,1 @@
+Contains the images that rendered to the application.
